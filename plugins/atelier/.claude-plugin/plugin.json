@@ -1,0 +1,24 @@
+{
+  "name": "atelier",
+  "description": "AI-native animation engine — 52 MCP tools for creating, editing, previewing, and exporting declarative YAML animations to Canvas 2D, SVG, Lottie JSON, MP4, and GIF",
+  "version": "0.25.1",
+  "author": {
+    "name": "ascend42",
+    "email": "ascend42@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/ascend42/a-atelier",
+  "repository": "https://github.com/ascend42/a-atelier-plugin",
+  "license": "MIT",
+  "keywords": [
+    "atelier",
+    "animation",
+    "mcp",
+    "motion-design",
+    "svg",
+    "lottie",
+    "canvas",
+    "ai-authoring",
+    "yaml",
+    "keyframes"
+  ]
+}

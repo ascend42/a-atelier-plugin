@@ -1,0 +1,35 @@
+{
+  "name": "a-atelier-plugin",
+  "owner": {
+    "name": "ascend42",
+    "email": "ascend42@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Atelier animation engine — MCP tools for AI-native animation authoring",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "atelier",
+      "source": "./plugins/atelier",
+      "description": "AI-native animation engine — 52 MCP tools for creating, editing, previewing, and exporting declarative YAML animations",
+      "version": "0.25.1",
+      "category": "creative",
+      "tags": [
+        "animation",
+        "mcp",
+        "motion-design",
+        "svg",
+        "lottie",
+        "canvas",
+        "ai-authoring"
+      ],
+      "author": {
+        "name": "ascend42"
+      },
+      "homepage": "https://github.com/ascend42/a-atelier",
+      "repository": "https://github.com/ascend42/a-atelier-plugin",
+      "license": "MIT"
+    }
+  ]
+}
