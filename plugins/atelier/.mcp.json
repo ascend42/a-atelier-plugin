@@ -3,7 +3,7 @@
     "atelier": {
       "type": "stdio",
       "command": "npx",
-      "args": ["-y", "-p", "@a-company/atelier", "atelier-mcp"]
+      "args": ["-y", "@a-company/atelier-mcp"]
     }
   }
 }
